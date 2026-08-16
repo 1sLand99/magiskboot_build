@@ -1,3 +1,7 @@
+# Later developments (a rewrite) continues at https://github.com/dropout-zzz/Magisk
+
+---
+
 ## magiskboot_build
 
 ![Magisk Version Badge](https://img.shields.io/badge/Magisk%20version-v27.0%20Canary%20(27002)-green?logo=magisk)
